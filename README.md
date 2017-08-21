@@ -3,6 +3,9 @@ using circular transition for custom segue page loading
 
 # Usage
 
+create a button to use as a reference point and a background color so that it animates smoothly below
+you may also set the background color to UIColor.clear...this will make it appear or disappear smoothly
+
 ## Required Methods
 
 ## Alter prepareForSegue
